@@ -1,3 +1,5 @@
+//Problem Link : https://www.hackerrank.com/challenges/variable-sized-arrays/problem?isFullScreen=true
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -11,7 +13,7 @@ int main() {
     int r,q;
     cin>>r>>q;
     vector<vector<int>> arr(r);
-    // vector<vector<int>> arr(r,vector<int> (c));
+    
     
     for(int i=0;i<r;i++)
     {
