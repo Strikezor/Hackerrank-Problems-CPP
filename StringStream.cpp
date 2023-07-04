@@ -1,3 +1,5 @@
+Problem Statement: https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
+
 #include <sstream>
 #include <vector>
 #include <iostream>
